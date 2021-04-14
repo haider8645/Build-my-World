@@ -6,7 +6,7 @@ namespace gazebo
   {
     public:
     MyWorld() : WorldPlugin(){
-    	printf("Welcome to my virtual world!\n");
+    	printf("Welcome to haider's world!\n");
     }
 
     void Load(physics::WorldPtr _world, sdf::ElementPtr _sdf){
